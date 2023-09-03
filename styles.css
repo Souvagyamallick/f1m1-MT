@@ -1,0 +1,31 @@
+*
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.firebox {
+    display: flex;
+    justify-content:space-between;
+  }
+
+  .box:hover {
+    border: 2px solid #2F80ED;
+}
+#nxt{
+    background-color:#2f80ed;
+    color:#ffffff ;
+    font-size: small
+}
+#lnc{
+    font-weight:normal;
+}
+#fll{
+    color:#2f80ed
+}
+#md{
+    /* padding-top: 4px; */
+    padding-left: 2px;
+    padding-right: 2px;
+
+}
